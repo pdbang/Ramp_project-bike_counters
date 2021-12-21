@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+pyarrow
+scikit-learn
+folium
+ramp-workflow
