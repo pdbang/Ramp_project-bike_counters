@@ -1,4 +1,9 @@
-# RAMP starting kit on the air passengers dataset
+# RAMP project - prediction of the cycle circulation in Paris
+
+The file `bike_counters_model_testing.ipynb` contains all the details about the analyze of the data and the research of the model. 
+In the bike_counters folder, there are only the final files to be upload for the submissions.
+
+Following are the initial intructions.
 
 ## Getting started
 
